@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -33,6 +34,8 @@
 <?php include("about/index.php");?>
 <?php include("Media/index.php");?>
 <?php include("Camps/index.php");?>
+<?php include("login/index.php");?>
+<?php include("signup/index.php");?>
 
 
 
@@ -43,3 +46,4 @@
 </body>
 
 </html>
+
